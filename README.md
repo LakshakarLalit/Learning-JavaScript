@@ -1,2 +1,4 @@
 # Learning-JavaScript
-Learning Java Script from scratch
+
+
+I am currently learning JavaScript and improving my web development skills step by step. This repository contains my practice code, concepts, notes, and mini projects created during my learning journey. Here, I am exploring JavaScript fundamentals such as variables, functions, arrays, objects, DOM manipulation, events, ES6 features, asynchronous programming, and API handling. Along with learning concepts, I am also building practical projects and solving coding problems to strengthen my understanding and gain real-world development experience. My goal is to become a skilled Full Stack Web Developer by continuously practicing and improving my programming skills.
