@@ -35,3 +35,19 @@
 // const myFun = function(){
 //     console.log("Hello");
 // }
+
+// -------------------------------------------
+//
+// Memory
+// Stack (Primitive), Heap (Non-Primitive)
+
+let myYoutubeName = "kalijaanuhai";
+let anName = myYoutubeName;
+anName = "Sorrybabu";
+
+console.log(myYoutubeName);
+console.log(anName);
+
+// Stack = make a copy of the data and assign the another variable
+
+// Heap = Not copy data, data store somewhere and indicate the address 
