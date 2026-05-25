@@ -1,9 +1,9 @@
 let name = "kaalibhoot";
 console.log(name);
-console.log(typeof(name));
+console.log(typeof (name));
 
 const gameName = new String('Labubu');
-console.log(gameName); 
+console.log(gameName);
 console.log(gameName[1]);
 console.log(gameName.length);
 console.log(gameName.toUpperCase());
