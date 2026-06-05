@@ -19,3 +19,7 @@ const debitCard = true
 if (userLoggedIn && debitCard){
     console.log("Allow to buy the item");
 }
+const loggedInEmail = true
+if (userLoggedIn || loggedInEmail){
+    console.log("User logged in");
+}
