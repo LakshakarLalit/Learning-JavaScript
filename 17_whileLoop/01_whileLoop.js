@@ -21,3 +21,4 @@ while(arr<myArray.length)
     console.log(`Value of ${arr} =  ${myArray[arr]}`);
     arr++
 }
+
